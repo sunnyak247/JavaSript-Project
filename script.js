@@ -45,4 +45,4 @@ var start = function(option){
 	else{
 		alert('No I will not handle that to ensure efficiency of processing');
 	}
-}
+};
